@@ -4,7 +4,7 @@ A responsive web application built for the Junior Web Developer Co-op position a
 
 ## Features
 
-- **Personalized Header**: Custom welcome message with rounded avatar profile
+- **Personalized Header**: Displays a custom welcome message with a rounded avatar.
 - **Responsive Layout**: Mobile-friendly design with clean typography
 - **Interactive Components**: Expandable metadata fields with accessibility features
 - **Dynamic Content**: Lazy-loaded images and real-time GDP data integration
